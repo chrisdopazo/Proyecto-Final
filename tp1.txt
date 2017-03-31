@@ -1,0 +1,25 @@
+Proyecto Final
+
+Misión: Nuestra misión es que entre todo podamos crear una aplicación la cual se puede apostar y ganar recompensas.La aplicacion va estar para chicos mayores de 18 años y hasta una edad ilimitada.Por otra parte esperamos que las jueguen gente que le gustan las apuestas o solo para divertirse.
+
+La página se va a basar en monedas , las cuales podrán ser canjeadas por diferentes premios.Entre los premios se encuentran códigos de Spotify Premium , Netflix Premium , Steam Cards , PSN Cards , etc.
+
+Visión: Nuestra visión en que esta aplicación llegue a que las personas la jueguen habitualmente.
+
+
+Estudio de Mercado
+
+Estuvimos  analizando y  observando aplicaciones de apuestas, la cuales no se juega dinero real, sino que se juega solo por diversión, en estas se puede observar juegos como las ruletas,  las tragamonedas, etc.
+
+Nosotros buscamos crear una app mobile en la cual lleguemos a tener un nivel gráfico muy bueno, se juegue por diversión y por dinero real, donde las recompensas serán otorgadas de diversas maneras. Nuestra aplicación tendrá una cantidad de juegos variados como la ruleta, un piedra papel o tijera y 
+Para tener una pequeña referencia encontramos algunas aplicaciones las cuales reflejan, en una medida más baja, lo que queremos crear: 
+
+-Huuuge casino-(tragaperras)
+-Quick hit slots-(tragamonedas)
+-Hit it Rich!-(tragamonedas)
+-Roulette Royale-(ruleta)
+-Smart Roulette tracker-(ruleta)
+
+En esta aplicaciones se puede ver que tienen un buen interfaz pero al momento de sacar premios es todo fantasía es decir , que no existen y esto es lo contrario de lo que nosotros queremos. 
+
+pensamos hacernos conocidos a través de publicidad (las cuales aún no tenemos definidas) sorteos, y dándoles a los jugadores que ingresen por primera vez a la página una pequeña suma de créditos,que podrán usar para probar la página.
