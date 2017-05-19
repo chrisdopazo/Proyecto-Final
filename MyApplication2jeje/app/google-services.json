@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "388711295304",
+    "firebase_url": "https://registracion-ccee4.firebaseio.com",
+    "project_id": "registracion-ccee4",
+    "storage_bucket": "registracion-ccee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388711295304:android:a284b2a2d539bc99",
+        "android_client_info": {
+          "package_name": "com.example.fg.GamApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388711295304-p8mugmjqi8tnmbna96gahl1ktprd6vr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHLxeLV3tyQXmYLDNdCSKBHuutLCXPBjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
