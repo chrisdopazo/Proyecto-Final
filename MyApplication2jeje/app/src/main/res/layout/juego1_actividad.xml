@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.fg.myapplication.Juego1Actividad"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:background="@drawable/fondo"
+    android:weightSum="1">
+    <ImageView
+        android:layout_width="309dp"
+        android:layout_height="200dp"
+        android:scaleType="centerInside"
+        android:id="@+id/moneda"
+        android:src="@drawable/cruz"
+        android:layout_gravity="center_horizontal"
+
+
+        android:layout_weight="0.60" />
+
+
+    <Button
+        android:id="@+id/flip"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp"
+        android:onClick="girar"
+        android:text="Girar"
+
+
+        />
+</LinearLayout>
