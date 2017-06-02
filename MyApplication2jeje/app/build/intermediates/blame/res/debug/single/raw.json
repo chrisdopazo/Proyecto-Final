@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tijera.mp3",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\raw\\tijera.mp3"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\raw\\moneda.mp3",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\raw\\moneda.mp3"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\raw\\papel.mp3",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\raw\\papel.mp3"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cancion.wav",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\raw\\cancion.wav"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\raw\\piedra.mp3",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\raw\\piedra.mp3"
+    }
+]

@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\google.jpeg",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\google.jpeg"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plata2.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\plata2.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ppt.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\ppt.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\539a72f3d166d5df155c22ea9869006a3856dc39\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plata.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\plata.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spotify.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\spotify.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\regalo.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\regalo.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\35ac476feca2298eda6434cea7b4b8e986d8917e\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piedra2.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\piedra2.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_black_24dp.xml",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\steam.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\steam.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cruz.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\cruz.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ppt.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\ppt.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contacto.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\contacto.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_black_24dp.xml",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\35ac476feca2298eda6434cea7b4b8e986d8917e\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo.jpg",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\fondo.jpg"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\539a72f3d166d5df155c22ea9869006a3856dc39\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cara.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\cara.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo2.jpg",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\fondo2.jpg"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contacto.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\contacto.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plata2.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\plata2.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\35ac476feca2298eda6434cea7b4b8e986d8917e\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\539a72f3d166d5df155c22ea9869006a3856dc39\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\35ac476feca2298eda6434cea7b4b8e986d8917e\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\separador.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\separador.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\539a72f3d166d5df155c22ea9869006a3856dc39\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cruz.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\cruz.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\google.jpeg",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\google.jpeg"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sync_black_24dp.xml",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\35ac476feca2298eda6434cea7b4b8e986d8917e\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playstore.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\playstore.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\papel.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\papel.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plata.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\plata.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\35ac476feca2298eda6434cea7b4b8e986d8917e\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo.jpg",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\fondo.jpg"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\35ac476feca2298eda6434cea7b4b8e986d8917e\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cargador.jpg",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\cargador.jpg"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playstore.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\playstore.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\psn.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\psn.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\separador.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\separador.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\psn.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\psn.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\539a72f3d166d5df155c22ea9869006a3856dc39\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\steam.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\steam.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\539a72f3d166d5df155c22ea9869006a3856dc39\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\539a72f3d166d5df155c22ea9869006a3856dc39\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spotify.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\spotify.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ez.jpg",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\ez.jpg"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\35ac476feca2298eda6434cea7b4b8e986d8917e\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piedra2.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\piedra2.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tijera.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\tijera.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flecha2.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\flecha2.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cargador.jpg",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\cargador.jpg"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cara.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\cara.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tijera.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\tijera.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\fb.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\fb.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flecha2.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\flecha2.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo2.jpg",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\fondo2.jpg"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\regalo.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\regalo.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\35ac476feca2298eda6434cea7b4b8e986d8917e\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\papel.png",
+        "source": "C:\\MyApplication2\\app\\src\\main\\res\\drawable\\papel.png"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\539a72f3d166d5df155c22ea9869006a3856dc39\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sync_black_24dp.xml",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2jeje\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ez.jpg",
+        "source": "C:\\MyApplication2jeje\\app\\src\\main\\res\\drawable\\ez.jpg"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\35ac476feca2298eda6434cea7b4b8e986d8917e\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\fg\\.android\\build-cache\\abec1d150f35c2ee9a6e2bcdd04dec89d82bf43d\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    }
+]

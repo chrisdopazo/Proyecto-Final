@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">388711295304-p8mugmjqi8tnmbna96gahl1ktprd6vr0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://registracion-ccee4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">388711295304</string>
+    <string name="google_api_key" translatable="false">AIzaSyBHLxeLV3tyQXmYLDNdCSKBHuutLCXPBjQ</string>
+    <string name="google_app_id" translatable="false">1:388711295304:android:a284b2a2d539bc99</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBHLxeLV3tyQXmYLDNdCSKBHuutLCXPBjQ</string>
+    <string name="google_storage_bucket" translatable="false">registracion-ccee4.appspot.com</string>
+</resources>
