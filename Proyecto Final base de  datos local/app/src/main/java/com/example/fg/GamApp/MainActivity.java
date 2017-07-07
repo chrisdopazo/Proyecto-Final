@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     EditText First_Name, Last_Name, Email, Password ;
     String F_Name_Holder, L_Name_Holder, EmailHolder, PasswordHolder;
     String finalResult ;
-    String HttpURL = "http://10.0.2.2/siosi/registracion.php";
+    String HttpURL = "http://proyectofaina.azurewebsites.net/registracion.php";
     Boolean CheckEditText ;
     ProgressDialog progressDialog;
     HashMap<String,String> hashMap = new HashMap<>();
@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
         Email = (EditText)findViewById(R.id.editTextEmail);
         Password = (EditText)findViewById(R.id.editTextPassword);
 
+
         register = (Button)findViewById(R.id.Submit);
         log_in = (Button)findViewById(R.id.Login);
 
@@ -51,13 +52,13 @@ public class MainActivity extends AppCompatActivity {
 
                     // If EditText is not empty and CheckEditText = True then this block will execute.
 
-                    UserRegisterFunction(F_Name_Holder,L_Name_Holder, EmailHolder, PasswordHolder);
+                    UserRegisterFunction(F_Name_Holder,L_Name_Holder, EmailHolder, PasswordHolder );
 
                 }
                 else {
 
                     // If EditText is empty then this block will execute .
-                    Toast.makeText(MainActivity.this, "Please fill all form fields.", Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, "Llenar todos los campo , por favor", Toast.LENGTH_LONG).show();
 
                 }
 
@@ -106,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
             protected void onPreExecute() {
                 super.onPreExecute();
 
-                progressDialog = ProgressDialog.show(MainActivity.this,"Loading Data",null,true,true);
+                progressDialog = ProgressDialog.show(MainActivity.this,"Cargando",null,true,true);
             }
 
             @Override
@@ -140,10 +141,7 @@ public class MainActivity extends AppCompatActivity {
         UserRegisterFunctionClass userRegisterFunctionClass = new UserRegisterFunctionClass();
 
         userRegisterFunctionClass.execute(nombre,apellido,email,password);
-        First_Name.setText("");
-        Last_Name.setText("");
-        Email.setText("");
-        Password.setText("");
+
 
     }
 

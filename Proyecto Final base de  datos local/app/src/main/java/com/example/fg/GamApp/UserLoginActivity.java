@@ -16,9 +16,9 @@ public class UserLoginActivity extends AppCompatActivity {
 
     EditText Email, Password;
     Button LogIn ;
-    String PasswordHolder, EmailHolder ;
+    String PasswordHolder, EmailHolder;
     String finalResult ;
-    String HttpURL = "http://10.0.2.2/siosi/login.php";
+    String HttpURL = "http://proyectofaina.azurewebsites.net/login.php";
     Boolean CheckEditText ;
     ProgressDialog progressDialog;
     HashMap<String,String> hashMap = new HashMap<>();
@@ -56,7 +56,6 @@ public class UserLoginActivity extends AppCompatActivity {
     }
     public void CheckEditTextIsEmptyOrNot(){
 
-
         EmailHolder = Email.getText().toString();
         PasswordHolder = Password.getText().toString();
 
@@ -78,7 +77,7 @@ public class UserLoginActivity extends AppCompatActivity {
             protected void onPreExecute() {
                 super.onPreExecute();
 
-                progressDialog = ProgressDialog.show(UserLoginActivity.this,"Loading Data",null,true,true);
+                progressDialog = ProgressDialog.show(UserLoginActivity.this,"Cargando",null,true,true);
             }
 
             @Override
@@ -88,7 +87,7 @@ public class UserLoginActivity extends AppCompatActivity {
 
                 progressDialog.dismiss();
 
-                if(httpResponseMsg.equalsIgnoreCase("Data Matched")){
+                if(httpResponseMsg.equalsIgnoreCase("Datos Correctos")){
 
                     finish();
 
@@ -122,8 +121,6 @@ public class UserLoginActivity extends AppCompatActivity {
         UserLoginClass userLoginClass = new UserLoginClass();
 
         userLoginClass.execute(email,password);
-        Email.setText("");
-        Password.setText("");
     }
 
 }

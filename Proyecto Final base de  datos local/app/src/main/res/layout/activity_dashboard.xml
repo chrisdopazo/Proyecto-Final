@@ -9,7 +9,7 @@
     tools:context="com.example.fg.GamApp.DashboardActivity">
 
     <TextView
-        android:text="SuccessFully Logged In, Your Email =  "
+        android:text="Bienvenido =  "
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"

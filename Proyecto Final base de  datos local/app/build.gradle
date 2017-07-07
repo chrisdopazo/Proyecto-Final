@@ -32,4 +32,6 @@ dependencies {
     compile 'com.android.support:support-vector-drawable:25.3.0'
     compile 'com.mcxiaoke.volley:library:1.0.19'
 }
-apply plugin: 'com.google.gms.google-services'
+
+
+

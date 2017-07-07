@@ -29,7 +29,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
         android:id="@+id/editTextF_Name"
-        android:hint="Enter Your First Name"
+        android:hint="Nombre"
         android:gravity="center"
         />
 
@@ -43,7 +43,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
         android:id="@+id/editTextL_Name"
-        android:hint="Enter Your Last Name"
+        android:hint="Apellido"
         android:gravity="center"/>
 
     <EditText
@@ -56,7 +56,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
         android:id="@+id/editTextEmail"
-        android:hint="Enter Your Email"
+        android:hint="Email"
         android:gravity="center"/>
 
 
@@ -70,25 +70,25 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
         android:id="@+id/editTextPassword"
-        android:hint="Enter Your Password"
+        android:hint="Contraseña"
         android:gravity="center"/>
 
     <Button
-        android:text="Register"
+        android:text="Registrarse"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:id="@+id/Submit"
         android:layout_below="@+id/editTextPassword"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"
-        android:id="@+id/Submit" />
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp" />
 
     <Button
-        android:text="Already Register | Log In Here"
+        android:text="Ya Registrado ? | Entre Aca"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:id="@+id/Login"
         android:layout_below="@+id/Submit"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="5dp"
-        android:id="@+id/Login" />
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>

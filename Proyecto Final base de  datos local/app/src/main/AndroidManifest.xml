@@ -30,13 +30,10 @@
         <activity android:name=".ContactoActividad" />
         <activity android:name=".RecompesasActividad" />
         <activity android:name=".Juego2Actividad" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".Welcome" />
         <activity android:name=".MainActivity" />
         <activity android:name=".UserLoginActivity" />
         <activity android:name=".DashboardActivity" />
-        <activity android:name=".SettingsActividad" />
-        <activity android:name=".UPdate"></activity>
+        <activity android:name=".crearsala"></activity>
     </application>
 
 </manifest>

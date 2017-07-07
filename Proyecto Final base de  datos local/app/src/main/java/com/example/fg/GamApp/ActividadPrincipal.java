@@ -100,7 +100,7 @@ public class ActividadPrincipal extends AppCompatActivity
 
         } else if (id == R.id.nav_regalo) {
             Intent hola4;
-            hola4= new Intent(ActividadPrincipal.this , RecompesasActividad.class);
+            hola4= new Intent(ActividadPrincipal.this , crearsala.class);
             startActivity(hola4);
 
         } else if (id == R.id.nav_login) {
