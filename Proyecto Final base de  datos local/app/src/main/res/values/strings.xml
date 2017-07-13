@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
-
+    <string-array name="names">
+        <item>Piedra , Papal o Tijera</item>
+        <item>Cara o seca</item>
+    </string-array>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 

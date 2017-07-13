@@ -7,8 +7,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Spinner;
 import android.widget.Toast;
 
 import java.util.HashMap;
@@ -17,6 +19,7 @@ public class crearsala extends AppCompatActivity {
 
     Button crear;
     EditText nombre, juego ;
+    Spinner spinner;
     String NombreSala, TipoJuego ;
     String finalResult ;
     String HttpURL = "http://proyectofaina.azurewebsites.net/crearsala.php";
@@ -30,6 +33,11 @@ public class crearsala extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_crearsala);
+
+        spinner = (Spinner) findViewById(R.id.spinner);
+        ArrayAdapter<String> myAdapter = new ArrayAdapter<String>(crearsala.this , android.R.layout.simple_list_item_1 , getResources().getStringArray(R.array.names));
+        myAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        spinner.setAdapter(myAdapter);
 
         //Assign Id'S
         nombre = (EditText)findViewById(R.id.editTextF_Name);
@@ -68,7 +76,7 @@ public class crearsala extends AppCompatActivity {
     public void CheckEditTextIsEmptyOrNot(){
 
         NombreSala = nombre.getText().toString();
-        TipoJuego = juego.getText().toString();
+        TipoJuego = spinner.getSelectedItem().toString();
 
 
 
@@ -102,8 +110,18 @@ public class crearsala extends AppCompatActivity {
                 super.onPostExecute(httpResponseMsg);
 
                 progressDialog.dismiss();
+                if(httpResponseMsg.equalsIgnoreCase("Sala Creada . Muchas Gracias!")){
 
-                Toast.makeText(crearsala.this,httpResponseMsg.toString(), Toast.LENGTH_LONG).show();
+                    Toast.makeText(crearsala.this,httpResponseMsg.toString(), Toast.LENGTH_LONG).show();
+
+                    finish();
+
+                    Intent intent = new Intent(crearsala.this, salas.class);
+
+                    startActivity(intent);
+
+                }
+
 
             }
 

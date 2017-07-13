@@ -33,7 +33,8 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".UserLoginActivity" />
         <activity android:name=".DashboardActivity" />
-        <activity android:name=".crearsala"></activity>
+        <activity android:name=".crearsala" />
+        <activity android:name=".salas"></activity>
     </application>
 
 </manifest>

@@ -116,7 +116,7 @@ public class ActividadPrincipal extends AppCompatActivity
 
         } else if (id == R.id.nav_contacto) {
             Intent hola9;
-            hola9= new Intent(ActividadPrincipal.this , ContactoActividad.class);
+            hola9= new Intent(ActividadPrincipal.this , salas.class);
             startActivity(hola9);
 
 
