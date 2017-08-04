@@ -1,10 +1,15 @@
 package com.example.fg.GamApp;
 
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -18,6 +23,7 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
+import static android.R.attr.button;
 import static android.R.attr.id;
 
 public class salas extends AppCompatActivity {
@@ -26,12 +32,16 @@ public class salas extends AppCompatActivity {
     private GridLayoutManager gridLayoutManager;
     private CustomAdapter adapter;
     private List<MyData> data_list;
+    TextView juego;
+    Button juego2;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_salas);
+
+
 
         recyclerView = (RecyclerView) findViewById(R.id.recycler_view);
         data_list  = new ArrayList<>();
@@ -53,6 +63,30 @@ public class salas extends AppCompatActivity {
 
             }
         });
+
+        juego =(TextView)findViewById(R.id.nombre);
+        juego2 = (Button)findViewById(R.id.jojo);
+
+        String njuego = juego.getText().toString();
+
+        if (njuego.equals("Juego"))
+
+        {
+            juego2.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent intent = new Intent(salas.this, Juego1Actividad.class);
+
+                    startActivity(intent);
+
+                }
+            });
+
+
+        }
+
+
+
 
     }
 
@@ -98,6 +132,9 @@ public class salas extends AppCompatActivity {
         };
 
         task.execute(id);
+
+
+
     }
 
 

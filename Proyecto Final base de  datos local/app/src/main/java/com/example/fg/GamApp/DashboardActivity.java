@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class DashboardActivity extends AppCompatActivity {
 
-    Button LogOut;
+    Button LogOut , play;
     TextView EmailShow;
     String EmailHolder;
     @Override
@@ -20,6 +20,7 @@ public class DashboardActivity extends AppCompatActivity {
 
 
         LogOut = (Button)findViewById(R.id.button);
+        play = (Button)findViewById(R.id.button2);
         EmailShow = (TextView)findViewById(R.id.EmailShow);
 
 
@@ -43,5 +44,15 @@ public class DashboardActivity extends AppCompatActivity {
 
             }
         });
+        play.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(DashboardActivity.this, ActividadPrincipal.class);
+
+                startActivity(intent);
+
+            }
+        });
+
     }
 }

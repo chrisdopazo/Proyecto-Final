@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by JG on 3/3/2017.
+ * Created by Titi on 3/3/2017.
  */
 
 public class HttpParse {
